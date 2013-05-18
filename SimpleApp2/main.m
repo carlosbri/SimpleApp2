@@ -3,7 +3,6 @@
 //
 //  Created by Carlos Brito on 5/17/13. This is just a test.
 //  Copyright (c) 2013 HW. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 
