@@ -2,7 +2,7 @@
 //  main.m
 //  SimpleApp2
 //
-//  Created by Carlos Brito on 5/17/13.
+//  Created by Carlos Brito on 5/17/13. This is just a test.
 //  Copyright (c) 2013 HW. All rights reserved.
 //
 
